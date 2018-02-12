@@ -1,0 +1,23 @@
+{
+  "name": "lregression",
+  "version": "1.0.0",
+  "description": "Simple linear regression calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elfido/lregression.git"
+  },
+  "keywords": [
+    "linear",
+    "regression"
+  ],
+  "author": "Fido <fidencio.garrido@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elfido/lregression/issues"
+  },
+  "homepage": "https://github.com/elfido/lregression#readme"
+}
